@@ -21,6 +21,6 @@ customers based on their profile and transaction history. The model should:
 ## Task 3: Customer Segmentation / Clustering
 Perform customer segmentation using clustering techniques. Use both profile information
 (from Customers.csv) and transaction information (from Transactions.csv).
-● We are choosing Kmeans clustering algorithm and  number of clusters as 4
-● Calculate clustering metrics, including the DB Index(Evaluation will be done on this).
-● Visualise your clusters using relevant plots.
+1. We are choosing Kmeans clustering algorithm and  number of clusters as 4
+2. Calculate clustering metrics, including the DB Index.
+3. Visualise your clusters using relevant plots.
