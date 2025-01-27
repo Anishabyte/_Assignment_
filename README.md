@@ -23,4 +23,4 @@ Perform customer segmentation using clustering techniques. Use both profile info
 (from Customers.csv) and transaction information (from Transactions.csv).
 1. We are choosing Kmeans clustering algorithm and  number of clusters as 4
 2. Calculate clustering metrics, including the DB Index.
-3. Visualise your clusters using relevant plots.
+3. Visualising clusters using relevant plots.
